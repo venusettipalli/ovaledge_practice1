@@ -1,5 +1,5 @@
 #! bin/bash
-cd /home/ovaledge/gitpush
+cd /var/lib/jenkins/gitpush
 
 git lfs track "*.war"
 
