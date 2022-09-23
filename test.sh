@@ -6,5 +6,5 @@ git lfs track "*.war"
 git add .
 git commit -m "run"
 
-git push
+git push pract1 master
 
